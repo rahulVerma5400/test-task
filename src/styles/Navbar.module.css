@@ -1,0 +1,17 @@
+.container{
+    display: flex;
+    justify-content: center;
+    padding: 10px 30px 10px 30px;
+    border-radius: 20px;
+    box-shadow: 4px 3px 10px ;
+    /* background-filter: blur(5px); */
+    align-items: center;
+    font-size: 22px;
+    color: purple;
+    backdrop-filter: (blur(5px));
+    width: 90%;
+    margin: auto;
+    gap: 40px;
+    font-family: monospace;
+    margin-top: 12px;
+}
